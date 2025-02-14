@@ -1,0 +1,306 @@
+{
+    "menu": [
+        {
+            "category": "Негізгі Тағамдар",
+            "items": [
+                {
+                    "name": "Қазан жаппа",
+                    "description": "жылқы еті, бұрыш, пияз, черри, шелпек",
+                    "price_kzt": 5990,
+                    "image_url": "https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&w=800"
+                },
+                {
+                    "name": "Үйде өсірілген картоп қосылған «Балғын қуырдақ»",
+                    "description": "жая, пияз, картоп, қаймақ, бидай наны",
+                    "price_kzt": 5590,
+                    "image_url":""
+                },
+                {
+                    "name": "Булгур қосылған тауық сирақ",
+                    "description": "тауық сирақ, булгур, фирмалық тұздық",
+                    "price_kzt": 3590,
+                    "image_url":""
+                },
+                {
+                    "name": "Бұрыш тұздығындағы жылқы еті",
+                    "description": "жылқы еті, үй сары майы, черри, бидай, бұрыш тұздығы",
+                    "price_kzt": 4990,
+                    "image_url":""
+                }
+            ]
+        },
+        {
+            "category": "Сүт Коктейльдері",
+            "items": [
+                {
+                    "name": "Орман жаңғағы сүтті коктейль",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/aa16fcd78fb04bd68c3a90801eeb944b.jpeg"
+                },
+                {
+                    "name": "Нәзік кокос сүтті коктейль",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/9c20994757b64e3fa82f46443abe0514.jpeg"
+                },
+                {
+                    "name": "Піспенаны сүтті коктейль",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/a6eaa9941e8a42529631481c70a1a39a.jpeg"
+                },
+                {
+                    "name": "Классикалық сүтті коктейль",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/aa16fcd78fb04bd68c3a90801eeb944b.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Сусындар",
+            "items": [
+                {
+                    "name": "Coca-Cola",
+                    "size": "0.25л",
+                    "price_kzt": 690,
+                    "image_url":"https://thumbor.uds.app/unsafe/fit-in/800x800/filters:upscale():fill(f8f9fc):quality(85)/game-prod/549756057721/7ab81d47-2579-45f4-8607-a18de1d1e330/1588670746539"
+                },
+                {
+                    "name": "Coca-Cola Zero",
+                    "size": "0.25л",
+                    "price_kzt": 690,
+                    "image_url":"https://iveria.moscow/sites/default/files/menu-food/593add9869700.jpg"
+                },
+                {
+                    "name": "Tassay",
+                    "size": "0.5л",
+                    "price_kzt": 990,
+                    "image_url":"https://pirogvatrushka.ru/files/images/product-photo/desktop/ta/ss/tassanchiss1000.jpg"
+                },
+                {
+                    "name": "Tassay Excellent",
+                    "size": "0.75л",
+                    "price_kzt": 1990,
+                    "image_url":"https://avatars.mds.yandex.net/get-mpic/3699263/2a0000018a3c02c9447a3b2b3819188117c7/orig"
+                },
+                {
+                    "name": "Borjomi",
+                    "size": "0.5л",
+                    "price_kzt": 990,
+                    "image_url":"https://avatars.dzeninfra.ru/get-zen_doc/108057/pub_5d6a14cb5eb26800ade1b816_5d6a1bdee6cb9b00ad35514e/scale_1200"
+                }
+            ]
+        },
+        {
+            "category": "Салаттар",
+            "items": [
+                {
+                    "name": "«Мұжыма» нан қосылған фермер салаты",
+                    "description": "салаттар қоспасы, черри, қияр, бал-қыша қаттығы",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/Qw9flruHUZ.jpeg"
+                },
+                {
+                    "name": "Балық көкөністен жасалған салат",
+                    "description": "салаттар қоспасы, черри, қияр, анар дәндері, тәтті бұрыш, зәйтүн майы",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/DMFnME7eP7.jpeg"
+                },
+                {
+                    "name": "«Жайлау» салаты",
+                    "description": "апельсин, салат қоспасы, сиыр еті, грек жаңғағы, цитрус тұздығы",
+                    "price_kzt": 3590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/d340b8074aa34cc09be393cc648e7d54.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Десерттер",
+            "items": [
+                {
+                    "name": "Чизкейк тарымен",
+                    "price_kzt": 2990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/PaEqAIEW6G.jpeg"
+                },
+                {
+                    "name": "«Тары» тәттілері",
+                    "price_kzt": 3990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/f8UQxOfO8D.jpeg"
+                },
+                {
+                    "name": "Тирамису",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/df920f9ac123469bb0577e1baec9be70.jpeg"
+                },
+                {
+                    "name": "Грек жаңғағы қосылған брауни",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/INbRzcMNhK.jpeg"
+                },
+                {
+                    "name": "Тары қосылған эклер",
+                    "price_kzt": 1990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/XCAucLc9Us.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Сорпалар",
+            "items": [
+                {
+                    "name": "Ірімшік сорпасы",
+                    "description": "чеддер ірімшігі, сәбіз, пияз, картоп, балқытылған ірімшік",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/qzyDtzkgik.jpeg"
+                },
+                {
+                    "name": "Үй кеспесі",
+                    "description": "тауық еті, үй кеспесі, сәбіз, пияз, қытырлақ нан",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/8ce7790517c440fe8e9ff4c20c5933ab.jpeg"
+                },
+                {
+                    "name": "Жылқы етінен «Ақ сорпа»",
+                    "description": "жылқы еті, жүгері, айран, қытырлақ нан",
+                    "price_kzt": 2990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/662b30b6a8364bfc80a87bda1f8ec171.jpeg"
+                },
+                {
+                    "name": "Асқабақ сорпасы",
+                    "description": "асқабақ, кілегей, бал, қытырлақ нан",
+                    "price_kzt": 1990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/3a01187ea0c8478b8ab028a4219709ae.jpeg"
+                },
+                {
+                    "name": "Страчателла қосылған қызанақ сорпасы",
+                    "description": "жас қызанақ (пелати), қызыл болгар бұрышы, страчателла, қытырлақ нан",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/a44a6c56a77c484f8f9abda650f2da3c.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Нан Тағамдары",
+            "items": [
+                {
+                    "name": "Нан себеті",
+                    "price_kzt": 1590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/QwXfqJwjLI.jpeg"
+                },
+                {
+                    "name": "«Мұжыма»",
+                    "price_kzt": 1590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/JDgyizDuSD.jpeg"
+                },
+                {
+                    "name": "Фермерлік нан сары маймен",
+                    "price_kzt": 990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/JHKmQE0RTE.jpeg"
+                },
+                {
+                    "name": "Ірімшік қосылған бауырсақ",
+                    "price_kzt": 1590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/JkdpFUIL1F.jpeg"
+                },
+                {
+                    "name": "Бауырсақ балқаймақпен",
+                    "price_kzt": 1590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/z5ad6mg0bn.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Таңғы Ас",
+            "items": [
+                {
+                    "name": "«Әлім ботқа» аджумен",
+                    "description": "бидай, сүт, аджуа",
+                    "price_kzt": 2590,
+                    "image_url": "https://avatars.mds.yandex.net/i?id=176f3623b1f1643e1c905bd912e78358_l-4662397-images-thumbs&ref=rim&n=13&w=2000&h=1500"
+                },
+                {
+                    "name": "«Әлім ботқа» балмен",
+                    "description": "бидай, сүт, бал",
+                    "price_kzt": 2590,
+                    "image_url": "https://cdn.cdnparenting.com/articles/2019/01/12163347/538845832-H.jpg"
+                },
+                {
+                    "name": "Құймақ",
+                    "description": "сүт, жұмыртқа, ұн, бал, балқаймақ",
+                    "price_kzt": 1990,
+                    "image_url": "https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/QgjGEoPZkb.jpeg"
+                },
+                {
+                    "name": "Көкөністер қосылған үй омлеті",
+                    "description": "сүт, жұмыртқа, көкөністер",
+                    "price_kzt": 2590,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/224b0e71ab924374851a9679783c0b3a.jpeg"
+                },
+                {
+                    "name": "Маусымдық жидектер қосылған үй йогурты",
+                    "description": "үй сүті, сүзбесі, бал, жидектер",
+                    "price_kzt": 2790,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/fe0a2800d16541dd9420dadc394bf1c6.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Салқындатқыш Сусындар",
+            "items": [
+                {
+                    "name": "Ананас-қымыздық лимонады",
+                    "price_kzt": "2590/3590",
+                    "image_url":"https://avatars.mds.yandex.net/i?id=0d770fe83133077596a3d9bb5fbdd4c7_l-4642926-images-thumbs&n=13"
+                },
+                {
+                    "name": "Алма-балдыркөк лимонады",
+                    "price_kzt": "2590/3590",
+                    "image_url":"https://richifamily.ru/upload/iblock/671/671c444f141b5052c1ae0033052f67e7.jpg"
+                },
+                {
+                    "name": "Апельсин-киви лимонады",
+                    "price_kzt": "2590/3590",
+                    "image_url":"https://thumbs.dreamstime.com/b/smoothie-87991363.jpg"
+                },
+                {
+                    "name": "Жеміс шырыны (мүкжидек)",
+                    "price_kzt": "1790/2790",
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/b99813a528ef43d79c635f06e11112e8.jpeg"
+                },
+                {
+                    "name": "Ice tea «Жидек»",
+                    "price_kzt": "1490/1990",
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/a8eb2938e94c49029fd2418123cf3651.jpeg"
+                }
+            ]
+        },
+        {
+            "category": "Кофе",
+            "items": [
+                {
+                    "name": "Espresso",
+                    "price_kzt": 990,
+                    "image_url":"https://kamigroup.fra1.cdn.digitaloceanspaces.com/kami/prod/menuItems/97a1ee9df9bf49aa8ca84b0a985b4b36.jpeg"
+                },
+                {
+                    "name": "Ristretto",
+                    "price_kzt": 990,
+                    "image_url":"https://i.ytimg.com/vi/FCjIRdrfwsc/maxresdefault.jpg"
+                },
+                {
+                    "name": "Latte",
+                    "price_kzt": 1590,
+                    "image_url":"https://avatars.dzeninfra.ru/get-zen_doc/4331550/pub_617152622bdd6d13e0b81d27_617161b3c612b506e8175f90/scale_1200"
+                },
+                {
+                    "name": "Cappuccino",
+                    "price_kzt": 1590,
+                    "image_url":"https://avatars.mds.yandex.net/i?id=63fa64dd62dec46f399b8a08e63bd6c3_l-6450036-images-thumbs&n=13"
+                },
+                {
+                    "name": "Ice Coffee",
+                    "price_kzt": 1590,
+                    "image_url":"https://cs5.livemaster.ru/storage/fa/2a/34068d3f8456016fc6edbe85b1gj--materialy-dlya-tvorchestva-otdushka-frappe-s-solenoj-karamely.jpg"
+                }
+            ]
+        }
+    ]
+}
