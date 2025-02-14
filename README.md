@@ -5,14 +5,12 @@ Tary is a Telegram bot that acts as an **online waiter** for a food institution,
 ## 📜 Telegram Bot Commands
 The following commands are available in the bot:
 
-| Command       | Description |
+| Buttons       | Description |
 |--------------|------------|
 | `/start`     | Start the bot and display the main menu |
-| `/menu`      | Show the list of food categories |
-| `/cart`      | View the user’s cart |
-| `/clear_cart` | Clear the user’s cart |
-| `/checkout`  | Proceed to checkout *(Planned Feature)* |
-| `/help`      | Display help and available commands |
+| `View Menu`      | Show the list of food categories |
+| `My cart`      | View the user’s cart |
+
 
 
 ---
