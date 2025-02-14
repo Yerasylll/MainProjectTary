@@ -36,16 +36,16 @@ The following commands are available in the bot:
   ```sh
   pip install aiogram
 
-  ---
+---
 
   ## Interactions between Telegram Bot and User
   - **Enabled InlineKeyboardButtons**
   - **Enabled ReplyKeyboardButtons**
   ## For setting better relationship
 
-  ---
+---
 
   ## Features are:
   - **Providing Menu list to user**
   - **Allocating chosen items in cart**
-  
+  - **Displays sum of chosen items**
