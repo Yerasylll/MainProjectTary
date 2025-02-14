@@ -1,4 +1,4 @@
-4271-a179-2a0147c7d6df" /># Tary Telegram Bot - Online Waiter for a Food Institution
+# Tary Telegram Bot - Online Waiter for a Food Institution
 
 ## 📌 Project Description
 Tary is a Telegram bot that acts as an **online waiter** for a food institution, allowing users to view the menu, add items to their cart, and manage their orders seamlessly. The bot is built using **Aiogram v3** and follows **Object-Oriented Programming (OOP)** principles for efficient menu management.
