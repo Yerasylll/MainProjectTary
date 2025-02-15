@@ -49,3 +49,8 @@ The following commands are available in the bot:
   - **Providing Menu list to user**
   - **Allocating chosen items in cart**
   - **Displays sum of chosen items**
+
+---
+  ## Main Chart 
+![telegram_bot_logic](https://github.com/user-attachments/assets/b3bf72ac-3f37-4c55-bf78-c81492a7b4d3)
+
